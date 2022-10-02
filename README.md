@@ -1,6 +1,6 @@
 # riotid_checker
 
-`git clone https://github.com/kiddotrace/instagram-followers-json`
+`git clone https://https://github.com/kiddotrace/riotid_checker`
 
 `cd instagram-followers-json`
 
