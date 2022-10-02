@@ -1,6 +1,7 @@
 # riotid_checker
 
 `git clone https://github.com/kiddotrace/instagram-followers-json`
+
 `cd instagram-followers-json`
 
 2. Create virtual env
