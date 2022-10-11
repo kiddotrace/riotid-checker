@@ -20,4 +20,4 @@
 `pip3 install -r requirements.txt`
 
 
-also u need nodejs to bypass cloudflare cuz one of the libraries have a dependency
+also u need nodejs to bypass cloudflare cuz cfscrape package have a dependency
